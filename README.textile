@@ -6,7 +6,7 @@ Programma ir domāta izmantošanai Draugiem.lv spēlei Fikss.
 
 Tā automātiski risina spēli, un krāj tev līmeni, naudu utt.
 
-Programma rakstīta uz "Python":http://www.python.org programēšanas valodas, papildus izmantojot "AutoPy":http://www.autopy.org rīkkopu.
+Programma rakstīta uz "Python":http://www.python.org programēšanas valodas, papildus izmantojot "AutoPy":https://github.com/msanders/autopy rīkkopu.
 
 h2. Kā izmantot?
 
