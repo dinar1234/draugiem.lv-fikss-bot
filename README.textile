@@ -6,11 +6,11 @@ Programma ir domāta izmantošanai Draugiem.lv spēlei Fikss.
 
 Tā automātiski risina spēli, un krāj tev līmeni, naudu utt.
 
-Programma rakstīta uz "Python":http://www.python.org programēšanas valodas, izmantojot "AutoPy":http://www.autopy.org.
+Programma rakstīta uz "Python":http://www.python.org programēšanas valodas, papildus izmantojot "AutoPy":http://www.autopy.org rīkkopu.
 
 h2. Kā izmantot?
 
-Jābūt ieinstalētai "Python":https://www.python.org/download/releases/2.7.6/ bibliotēkai un "AutoPy":https://github.com/msanders/autopy rīkkopai.
+Jābūt ieinstalētai "Python":https://www.python.org/download/releases/2.7.6/ bibliotēkai un "AutoPy":https://github.com/msanders/rīkkopai.
 
 Lai sāktu izmantot Fikss Botu, jāatver pati spēle, ar nosacījumu, ka viss spēles laukums ir redzams uz ekrāna.
 
